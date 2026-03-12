@@ -10,6 +10,7 @@ body {
 
 .avatar {
     width: 150px;
+    transition: filter 0.3s ease;
 }
 
 .avatar:hover {
